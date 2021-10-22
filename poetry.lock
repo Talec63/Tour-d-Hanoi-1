@@ -1,0 +1,17 @@
+[[package]]
+name = "pyplete"
+version = "0.0.5"
+description = "PYPLETE (PYthon autocomPLETE) is a interface to autocomplete in python"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "547908adfdb763a5f231e0ede24a0e715ee99350a0b5afe170d7bd9eff0dcac1"
+
+[metadata.files]
+pyplete = [
+    {file = "pyplete-0.0.5.tar.gz", hash = "sha256:a0dd088a3fd64c564a589341d90edb73e391f0c2702c079f582a53275f615dd3"},
+]
